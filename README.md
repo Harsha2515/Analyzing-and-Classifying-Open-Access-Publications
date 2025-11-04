@@ -25,9 +25,9 @@ The study focuses on:
 
 | Notebook | File Name | Description |
 |-----------|------------|-------------|
-|01| **01_Data_Preprocessing_and_License_Classification.ipynb** | Data integration, cleaning, and initial modeling for classifying publications based on OA license attributes. |
-|02| **02_Data_Preprocessing_and_OA_Level_Classification.ipynb** | Advanced EDA and ML modeling for classifying journals into high or low OA adoption groups. |
-|03| **03_Country_and_Trend_Analysis.ipynb** | Visualization of OA publication trends by country and year, and analysis of different OA types (Gold, Hybrid, Bronze, Green, etc.). |
+| **01_Data_Preprocessing_and_License_Classification.ipynb** | Data integration, cleaning, and initial modeling for classifying publications based on OA license attributes. |
+| **02_Data_Preprocessing_and_OA_Level_Classification.ipynb** | Advanced EDA and ML modeling for classifying journals into high or low OA adoption groups. |
+| **03_Country_and_Trend_Analysis.ipynb** | Visualization of OA publication trends by country and year, and analysis of different OA types (Gold, Hybrid, Bronze, Green, etc.). |
 
 ---
 
